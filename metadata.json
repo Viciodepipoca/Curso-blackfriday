@@ -1,0 +1,8 @@
+{
+  "name": " Curso Vicio de pipoca BLACK",
+  "description": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
